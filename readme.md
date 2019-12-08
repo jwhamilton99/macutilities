@@ -1,6 +1,6 @@
 # Mac Utilities
 
-I make some macOS utilities. Only one is finished, but I'm working on more.
+I make some macOS utilities.
 
 Here they are:
 
