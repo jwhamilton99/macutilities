@@ -1,9 +1,10 @@
 # Mac Utilities
 
-I make some macOS utilities. Only one is finished, but I'm working on a few more.
+I make some macOS utilities. Only one is finished, but I'm working on more.
 
 Here's what they are:
 
-* A menu bar app that changes your wallpaper depending on if you're in light or dark mode.
+* [Dark Mode Wallpaper Switcher](https://github.com/jwhamilton99/dark-mode-wallpaper)
+* Coming Soon: Menu Bar Splitter
 
-To download, just go into the folder, click on the .zip file, and click Download.
+To download, just follow the instructions on the app's page.
